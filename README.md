@@ -36,8 +36,10 @@ A: In this senior implementation, the Prescriptive Phase includes a "Fallthrough
 **Q: Why use Pydantic schemas in a Data Science project?**
 A: To ensure data integrity. By validating the output of the recommendation engine before it reaches the UI, we prevent runtime errors and ensure that the business strategy always receives the expected parameters.
 
-📄 **Licencia**
-Este proyecto se distribuye bajo la licencia MIT. Su propósito es estrictamente educativo y de investigación, desarrollado como una solución de Data Science Aplicada.
+---
 
-**Nota para reclutadores:**
-Este proyecto demuestra habilidades avanzadas en Ingeniería de Software aplicada a la Inteligencia Artificial. Se priorizó la modularidad, la inyección de dependencias para la gestión de bases de datos y la persistencia de estado en aplicaciones web (Streamlit). Es una base sólida para escalar hacia microservicios de ML o integraciones con LLMs empresariales como IBM WatsonX.
+📄 **License**
+This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Data Science solution.
+
+**Note for recruiters:**
+This project demonstrates advanced skills in Software Engineering applied to Artificial Intelligence. Modularity, dependency injection for database management, and state persistence in web applications (Streamlit) were prioritized. It provides a solid foundation for scaling to ML microservices or integrations with LLMs.
