@@ -26,7 +26,7 @@ def main():
     st.sidebar.title("Project Navigation")
     page = st.sidebar.radio(
         "Go to Phase:", 
-        ["📊 Descriptive Analysis", "🤖 Predictive Phase", "🎯 Prescriptive Strategy"]
+        ["Descriptive Analysis", "Predictive Phase", "Prescriptive Strategy"]
     )
 
     # ENGINE INITIALIZATION
@@ -119,4 +119,5 @@ def main():
             st.warning("⚠️ Predictive results required. Please train the model in the 'Predictive Phase' first.")
 
 if __name__ == "__main__":
+
     main()
