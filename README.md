@@ -2,6 +2,9 @@
 
 This project implements a complete Data Science lifecycle focused on **Applied Artificial Intelligence**. It transitions from raw SQL data to a prescriptive strategy engine.
 
+<img width="1877" height="929" alt="preview" src="https://github.com/user-attachments/assets/7a5287d6-4210-41ef-8b53-80464e74c72a" />
+
+
 ## 🏗️ System Architecture
 The project is modularized into three distinct phases to ensure scalability and maintainability (SOLID principles):
 
