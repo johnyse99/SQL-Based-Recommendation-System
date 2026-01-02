@@ -46,3 +46,5 @@ This project is distributed under the MIT license. Its purpose is strictly educa
 
 **Note for recruiters:**
 This project demonstrates advanced skills in Software Engineering applied to Artificial Intelligence. Modularity, dependency injection for database management, and state persistence in web applications (Streamlit) were prioritized. It provides a solid foundation for scaling to ML microservices or integrations with LLMs.
+
+Autor: JUAN S.  Contacto: https://github.com/johnyse99
